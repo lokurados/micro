@@ -3,7 +3,7 @@
   "wake_word": "tso_tso",
   "author": "lokura",
   "website": "https://www.kt.cam/",
-  "model": "./tso_tso_v0.1.tflite",
+  "model": "./tso_tso.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.66,
